@@ -1,2 +1,2 @@
-# GH1
+# Github1
 I am learning Git and Github
